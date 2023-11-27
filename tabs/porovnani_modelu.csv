@@ -1,0 +1,9 @@
+outcome,AIC_linear,AIC_square,BIC_linear,BIC_square
+balanc,1315.99,1325.79,1350.1,1359.9
+bilateralna_koordinacia,1182.9,1190.94,1217.02,1225.05
+hruba_motorika,1715.77,1728.74,1749.89,1762.86
+koordinacia,1462.47,1472.74,1496.58,1506.86
+koordinacia_hornych_koncatin,1325.64,1340.31,1359.76,1374.42
+rychlost_ohybnost,1357.56,1367.68,1391.68,1401.8
+sila,1148.83,1169.64,1182.95,1203.76
+sila_ohybnost,1490.25,1506.14,1524.37,1540.26
