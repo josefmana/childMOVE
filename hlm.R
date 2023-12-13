@@ -1,3 +1,5 @@
+# simR will work if the input data for the model are NA-free
+
 # clean the environment
 rm(list = ls())
 
